@@ -159,6 +159,7 @@ sed -i 's/^# %wheel ALL=(ALL:ALL) ALL/%wheel ALL=(ALL:ALL) ALL/' /etc/sudoers
 rm -r $HOME/CarnelianOS
 rm -r /home/$USERNAME/CarnelianOS
 
+sudo -k
 
 echo -ne "
 ---------------------------------------------------------------------------
@@ -352,6 +353,6 @@ echo "##############################"
 echo "## DTOS has been installed! ##"
 echo "##############################"
 done
-
+sudo su
 # Replace in the same state
 cd $pwd
