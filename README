@@ -1,0 +1,13 @@
+DO NOT RUN THIS. --> IT'S STILL UNDER DEVELOPEMENT 
+
+This is a script that combines ArchMitas(My modiefied version of ArchTitus by ChrisTitusTech), DTOS(Derek Taylor's aka DistroTube OS) and XmonadCustom(My modified version of Axarva's dotfiles-2.0)
+It combines the best parts of all the scripts to provide the perfect setup, my setup. It can be KDE, Gnome, Xmonad, anything, and each option has my personal 
+customization.
+I call it, Carnelian OS. This is an Arch automated installation with selectable choices to do any combnations you want.
+
+This repo is created independatly without any forks to eliminate chances of future deleted repositories by those gentlement which is going to result in a tragety for all of us developers who use those scripts.
+Thank you Chris, Derek and Atharva for the awsome scripts!
+
+This wouldn't be possible without you, hope you like it!
+
+This is a work in progress but the final version will be as it's stated above.
